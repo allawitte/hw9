@@ -1,0 +1,23 @@
+{
+  "name": "alla",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "mongodb": "^2.2.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allawitte/hw9.git"
+  },
+  "author": "Alla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allawitte/hw9/issues"
+  },
+  "homepage": "https://github.com/allawitte/hw9#readme"
+}
